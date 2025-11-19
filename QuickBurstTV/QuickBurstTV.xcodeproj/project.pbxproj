@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E8FE4F6F2E9D52A900A5BAF8 /* Prioritv.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prioritv.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E852F1D02ECE13270091933D /* QuickBurstTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickBurstTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E8FE4F712E9D52A900A5BAF8 /* Prioritv */ = {
+		E852F1D22ECE13270091933D /* QuickBurstTV */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Prioritv;
+			path = QuickBurstTV;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E8FE4F6C2E9D52A900A5BAF8 /* Frameworks */ = {
+		E852F1CD2ECE13270091933D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E8FE4F662E9D52A900A5BAF8 = {
+		E852F1C72ECE13270091933D = {
 			isa = PBXGroup;
 			children = (
-				E8FE4F712E9D52A900A5BAF8 /* Prioritv */,
-				E8FE4F702E9D52A900A5BAF8 /* Products */,
+				E852F1D22ECE13270091933D /* QuickBurstTV */,
+				E852F1D12ECE13270091933D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E8FE4F702E9D52A900A5BAF8 /* Products */ = {
+		E852F1D12ECE13270091933D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E8FE4F6F2E9D52A900A5BAF8 /* Prioritv.app */,
+				E852F1D02ECE13270091933D /* QuickBurstTV.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E8FE4F6E2E9D52A900A5BAF8 /* Prioritv */ = {
+		E852F1CF2ECE13270091933D /* QuickBurstTV */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E8FE4F7F2E9D52AA00A5BAF8 /* Build configuration list for PBXNativeTarget "Prioritv" */;
+			buildConfigurationList = E852F1DB2ECE13290091933D /* Build configuration list for PBXNativeTarget "QuickBurstTV" */;
 			buildPhases = (
-				E8FE4F6B2E9D52A900A5BAF8 /* Sources */,
-				E8FE4F6C2E9D52A900A5BAF8 /* Frameworks */,
-				E8FE4F6D2E9D52A900A5BAF8 /* Resources */,
+				E852F1CC2ECE13270091933D /* Sources */,
+				E852F1CD2ECE13270091933D /* Frameworks */,
+				E852F1CE2ECE13270091933D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E8FE4F712E9D52A900A5BAF8 /* Prioritv */,
+				E852F1D22ECE13270091933D /* QuickBurstTV */,
 			);
-			name = Prioritv;
+			name = QuickBurstTV;
 			packageProductDependencies = (
 			);
-			productName = Prioritv;
-			productReference = E8FE4F6F2E9D52A900A5BAF8 /* Prioritv.app */;
+			productName = QuickBurstTV;
+			productReference = E852F1D02ECE13270091933D /* QuickBurstTV.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E8FE4F672E9D52A900A5BAF8 /* Project object */ = {
+		E852F1C82ECE13270091933D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					E8FE4F6E2E9D52A900A5BAF8 = {
+					E852F1CF2ECE13270091933D = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = E8FE4F6A2E9D52A900A5BAF8 /* Build configuration list for PBXProject "Prioritv" */;
+			buildConfigurationList = E852F1CB2ECE13270091933D /* Build configuration list for PBXProject "QuickBurstTV" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = E8FE4F662E9D52A900A5BAF8;
+			mainGroup = E852F1C72ECE13270091933D;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E8FE4F702E9D52A900A5BAF8 /* Products */;
+			productRefGroup = E852F1D12ECE13270091933D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E8FE4F6E2E9D52A900A5BAF8 /* Prioritv */,
+				E852F1CF2ECE13270091933D /* QuickBurstTV */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E8FE4F6D2E9D52A900A5BAF8 /* Resources */ = {
+		E852F1CE2ECE13270091933D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E8FE4F6B2E9D52A900A5BAF8 /* Sources */ = {
+		E852F1CC2ECE13270091933D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		E8FE4F7D2E9D52AA00A5BAF8 /* Debug */ = {
+		E852F1D92ECE13290091933D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		E8FE4F7E2E9D52AA00A5BAF8 /* Release */ = {
+		E852F1DA2ECE13290091933D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		E8FE4F802E9D52AA00A5BAF8 /* Debug */ = {
+		E852F1DC2ECE13290091933D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
@@ -263,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.defer-studios.Prioritv";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.defer-studios.QuickBurstTV";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -272,10 +272,11 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 17.6;
 			};
 			name = Debug;
 		};
-		E8FE4F812E9D52AA00A5BAF8 /* Release */ = {
+		E852F1DD2ECE13290091933D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
@@ -292,7 +293,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.defer-studios.Prioritv";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.defer-studios.QuickBurstTV";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -301,31 +302,32 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 17.6;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E8FE4F6A2E9D52A900A5BAF8 /* Build configuration list for PBXProject "Prioritv" */ = {
+		E852F1CB2ECE13270091933D /* Build configuration list for PBXProject "QuickBurstTV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E8FE4F7D2E9D52AA00A5BAF8 /* Debug */,
-				E8FE4F7E2E9D52AA00A5BAF8 /* Release */,
+				E852F1D92ECE13290091933D /* Debug */,
+				E852F1DA2ECE13290091933D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E8FE4F7F2E9D52AA00A5BAF8 /* Build configuration list for PBXNativeTarget "Prioritv" */ = {
+		E852F1DB2ECE13290091933D /* Build configuration list for PBXNativeTarget "QuickBurstTV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E8FE4F802E9D52AA00A5BAF8 /* Debug */,
-				E8FE4F812E9D52AA00A5BAF8 /* Release */,
+				E852F1DC2ECE13290091933D /* Debug */,
+				E852F1DD2ECE13290091933D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E8FE4F672E9D52A900A5BAF8 /* Project object */;
+	rootObject = E852F1C82ECE13270091933D /* Project object */;
 }
