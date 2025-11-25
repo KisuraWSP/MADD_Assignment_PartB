@@ -127,7 +127,7 @@ These improvements can expand your Part B marks:
 # 📝 Author
 ```
 Kisura W. S. P
-BSc (Hons) in IT — SE4041 Mobile Application Development (2025)
+BSc (Hons) in Information Technology Specializing in Interactive Media — SE4041 Mobile Application Development & Design (2025)
 ```
 
 # 📄 License
